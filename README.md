@@ -4,8 +4,8 @@
 
 <a href="https://github.com/Sado4">
   <!-- リポジトリステータス -->
-  [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ユーザ名&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/)
+  [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=Sado4&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Sado4/)
 
   <!-- ソースコード統計 -->
-  [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
+  [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sado4&layout=compact&theme=tokyonight)](https://github.com/Sado4/)
 </a>
