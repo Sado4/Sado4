@@ -9,4 +9,4 @@
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sado4&layout=compact&theme=tokyonight)](https://github.com/Sado4/)
 
 <!-- Qiitaのコントリビュート数 -->
-https://qiita-badge.apiapi.app/s/hoge/followers.svg
+https://qiita-badge.apiapi.app/s/Sado4/followers.svg
