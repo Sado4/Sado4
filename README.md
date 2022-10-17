@@ -9,6 +9,6 @@
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sado4&layout=compact&theme=tokyonight)](https://github.com/Sado4/)
 
 # My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Sado4/posts.svg)](http://qiita.com/Sado4)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/derasado/posts.svg)](http://qiita.com/derasado)
 # My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Sado4/contributions.svg)](http://qiita.com/Sado4)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/derasado/contributions.svg)](http://qiita.com/derasado)
