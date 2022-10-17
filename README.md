@@ -8,5 +8,7 @@
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sado4&layout=compact&theme=tokyonight)](https://github.com/Sado4/)
 
-<!-- Qiitaのコントリビュート数 -->
-https://qiita-badge.apiapi.app/s/Sado/followers.svg
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Sado4/posts.svg)](http://qiita.com/Sado4)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Sado4/contributions.svg)](http://qiita.com/Sado4)
