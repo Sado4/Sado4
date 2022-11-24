@@ -5,7 +5,7 @@
 <!-- リポジトリステータス -->
 [![Sado4's github stats](https://github-readme-stats.vercel.app/api?username=Sado4&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Sado4)
 
-[![Sado4's github stats](https://github-readme-stats.vercel.app/api?username=Sado4&hide=issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Sado4/github-readme-stats)
+[![Sado4's github stats](https://github-readme-stats.vercel.app/api?username=Sado4&hide=issues,contribs&count_private=true&show_icons=true)](https://github.com/Sado4/github-readme-stats)
 
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sado4&hide=html,css,autohotkey&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/Sado4/)
