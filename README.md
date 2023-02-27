@@ -1,4 +1,4 @@
-### Hey there, Sado4 👋
+### Hey there, Sado 👋
 
 - ⚡️ &nbsp; Fun fact: dog🐶, camp⛺, fishing🎣
 
