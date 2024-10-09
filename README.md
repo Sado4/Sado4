@@ -10,7 +10,7 @@
 <!-- [![Sado4's github stats](https://github-readme-stats.vercel.app/api?username=Sado4&hide=issues,contribs&count_private=true&show_icons=true&theme=onedark)](https://github.com/Sado4/github-readme-stats) -->
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sado4&hide=html,css,scss,blade,dockerfile,vue,autohotkey&langs_count=6&layout=compact&theme=onedark)](https://github.com/Sado4/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sado4&hide=html,css,scss,blade,dockerfile,batchfile,vue,autohotkey&langs_count=6&layout=compact&theme=onedark)](https://github.com/Sado4/)
 
 <!-- 使用言語 -->
 ### Languages
