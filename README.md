@@ -45,4 +45,4 @@
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/derasado/posts.svg)](http://qiita.com/derasado)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/derasado/contributions.svg)](http://qiita.com/derasado)
-![](https://komarev.com/ghpvc/?username=sado4&color=green)
+![](https://komarev.com/ghpvc/?username=sado4&color=brightgreen)
