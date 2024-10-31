@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=sado4&color=green)
+
 ### My Apps(個人開発)
 - Smart管理(顧客管理アプリ)
   - https://github.com/Sado4/Smart-kanri-app
