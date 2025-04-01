@@ -1,8 +1,11 @@
-### My Apps(個人開発)
+### My Apps & Extensions
 - Smart管理(顧客管理アプリ)
   - https://github.com/Sado4/Smart-kanri-app
 - DokuPro(エンジニア特化型マッチングサービス)
   - https://dokupro.dev/
+- genpr(Github PR Prompt Generator VScode拡張)
+  - https://marketplace.visualstudio.com/items?itemName=Sado4.genpr
+
 
 ### Profile
 
