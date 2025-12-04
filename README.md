@@ -52,12 +52,4 @@
   </a>
 </p>
 
-
-
-
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/derasado/posts.svg)](http://qiita.com/derasado)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/derasado/contributions.svg)](http://qiita.com/derasado)
-<a href="https://zenn.dev/keichan_15">
-  <img height="20" src="https://badgen.org/img/zenn/sado/articles?style=plastic" />
-</a>
 ![](https://komarev.com/ghpvc/?username=sado4&color=brightgreen)
