@@ -44,12 +44,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original-wordmark.svg" alt="datadog" width="40" height="40" />
 </p>
 
-<!-- 使用エディター -->
-### Editor
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-</p>
-
 ![](https://komarev.com/ghpvc/?username=sado4&color=brightgreen)
