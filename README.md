@@ -13,10 +13,6 @@
 - GitHub Review Manager(Githubレビュー管理　VScode拡張)
   - https://github.com/Sado4/github-review-manager
 
-### Profile
-
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sado4&hide=html,css,scss,blade,dockerfile,shell,batchfile,vue,autohotkey&langs_count=6&layout=compact&theme=onedark)](https://github.com/Sado4/)
-
 ### Languages
 
 [![My Languages](https://skillicons.dev/icons?i=js,ts,php,html,css,sass)](https://skillicons.dev)
