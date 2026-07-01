@@ -1,7 +1,5 @@
 ### My Apps & Extensions
 
-- Smart管理(顧客管理アプリ)
-  - https://github.com/Sado4/Smart-kanri-app
 - DokuPro(エンジニア特化型マッチングサービス)
   - https://dokupro.dev/
 - ctrl-ime-ahk(Mac風なキーボード(ctrl→かな・英)切り替え)
