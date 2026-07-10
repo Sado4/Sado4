@@ -13,11 +13,11 @@
 
 ### Languages
 
-[![My Languages](https://skillicons.dev/icons?i=js,ts,php,html,css,sass)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=js,ts,php,ruby,html,css,sass)](https://skillicons.dev)
 
 ### Frameworks
 
-[![My Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,laravel,nestjs)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,laravel,rails,nestjs)](https://skillicons.dev)
 
 ### Infra & Tool
 
