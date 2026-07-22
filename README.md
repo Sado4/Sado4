@@ -4,10 +4,6 @@
   - https://dokupro.dev/
 - ctrl-ime-ahk(Mac風なキーボード(ctrl→かな・英)切り替え)
   - https://github.com/Sado4/ctrl-ime-ahk
-- genpr(Github PR Prompt Generator VScode拡張)
-  - https://marketplace.visualstudio.com/items?itemName=Sado4.genpr
-- genreview(Github Review Prompt Generator VScode拡張)
-  - https://marketplace.visualstudio.com/items?itemName=Sado4.genreview
 - GitHub Review Manager(Githubレビュー管理　VScode拡張)
   - https://github.com/Sado4/github-review-manager
 
