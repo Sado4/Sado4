@@ -13,7 +13,7 @@
 
 ### Frameworks
 
-[![My Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,laravel,rails,nestjs)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,laravel,rails,fastapi,nestjs)](https://skillicons.dev)
 
 ### Infra & Tool
 
