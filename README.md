@@ -9,7 +9,7 @@
 
 ### Languages
 
-[![My Languages](https://skillicons.dev/icons?i=js,ts,php,ruby,html,css,sass)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=js,ts,php,ruby,python,html,css,sass)](https://skillicons.dev)
 
 ### Frameworks
 
