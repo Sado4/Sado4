@@ -2,6 +2,8 @@
 
 - DokuPro(エンジニア特化型マッチングサービス)
   - https://dokupro.dev/
+- メンツる(リアル麻雀募集サービス)
+  - https://mentsuru.com/
 - ctrl-ime-ahk(Mac風なキーボード(ctrl→かな・英)切り替え)
   - https://github.com/Sado4/ctrl-ime-ahk
 - GitHub Review Manager(Githubレビュー管理　VScode拡張)
